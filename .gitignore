@@ -1,0 +1,6 @@
+results/
+__pycache__/
+*.pyc
+*.pkl
+tests/r_check_*.csv
+.venv/
